@@ -1,11 +1,10 @@
-h1>Airport Management System</h1>
+<h1>Airport Management System</h1>
 
 <p>Este proyecto es una aplicación de escritorio construida en Java para la gestión general de un aeropuerto, utilizando el framework <strong>Java Swing</strong> para la interfaz gráfica de usuario. La aplicación permite gestionar roles, aerolíneas, vuelos, y solicitudes de mantenimiento, garantizando la persistencia de datos y utilizando excepciones personalizadas para el manejo de errores.</p>
 
 <h2>Requisitos</h2>
 <ul>
     <li>Java 11 o superior.</li>
-    <li>Base de datos H2 o SQLite para persistencia de datos.</li>
     <li>Maven para gestionar las dependencias del proyecto.</li>
 </ul>
 
